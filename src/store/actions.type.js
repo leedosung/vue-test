@@ -1,0 +1,5 @@
+export const PROFILE_READ = 'profileRead'
+export const SITE_UPDATE = 'siteUpdate'
+export const SITE_CREATE = 'siteCreate'
+export const SITE_DELETE = 'siteDelete'
+export const SITE_READ = 'siteRead'
